@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #f5f2f2;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+main, footer, h2 {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 50%;
+  height: auto;
+}
+
+a { color: #black; }
+a:hover { color: #blue; }
+
+.center { text-align: center; }
+
+.iconimg {
+  padding: 5px;
+  margin: 5px;
+}
